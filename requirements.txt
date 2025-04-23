@@ -1,4 +1,2 @@
 argparse
-csv
 os
-subprocess
